@@ -1,15 +1,15 @@
 {
   "hero": {
     "cta": {
-      "primary": "Explore Door Parts",
+      "primary": "Explore Door Solutions",
       "secondary": "Get Custom Quote",
       "primaryAction": "/products",
       "secondaryAction": "/contact"
     },
     "type": "video",
-    "title": "Precision Door Manufacturing Solutions",
+    "title": "Precision Door Manufacturing Excellence",
     "enabled": true,
-    "subtitle": "Crafting Superior Connecting Door Parts and Windows with Advanced Manufacturing Technology",
+    "subtitle": "Crafting Superior Connecting Door Parts and Custom Window Components",
     "backgroundImage": "https://images.unsplash.com/photo-1666618090858-fbcee636bd3e",
     "backgroundVideo": "https://hthusloogpnfqefzskvh.supabase.co/storage/v1/object/public/videos//cnc%20machining%20brass.mp4"
   },
@@ -20,9 +20,9 @@
   "sections": {
     "cta": {
       "type": "cta",
-      "title": "Ready to Transform Your Door Manufacturing?",
+      "title": "Ready to Transform Your Door Solutions?",
       "enabled": true,
-      "subtitle": "Experience precision engineering and customized solutions tailored to your specific requirements.",
+      "subtitle": "Experience precision engineering and customized manufacturing tailored to your specific requirements.",
       "primaryCTA": {
         "text": "View Our Products",
         "action": "/products"
@@ -48,12 +48,12 @@
         {
           "id": "quality",
           "answer": "We maintain strict ISO-compliant quality control processes, ensuring every component meets rigorous industry standards and customer specifications.",
-          "question": "What quality assurance measures do you have?"
+          "question": "What quality assurance do you provide?"
         },
         {
           "id": "customization",
           "answer": "Our laser writing and custom manufacturing capabilities allow complete personalization of door parts to match your exact requirements.",
-          "question": "Can you customize door parts?"
+          "question": "Can you customize door components?"
         }
       ],
       "title": "Frequently Asked Questions",
@@ -72,12 +72,12 @@
           "number": "100+"
         },
         {
-          "label": "Served Regions",
-          "number": "10+"
+          "label": "Satisfied Clients",
+          "number": "250+"
         },
         {
-          "label": "Satisfied Clients",
-          "number": "500+"
+          "label": "Annual Production",
+          "number": "50,000+"
         }
       ],
       "title": "Our Manufacturing Achievements",
@@ -92,8 +92,8 @@
         {
           "id": "construction",
           "name": "Construction",
-          "image": "https://images.unsplash.com/photo-1534275288878-f0a62313e1d5",
-          "description": "Specialized door components for residential and commercial construction projects, ensuring durability and precision.",
+          "image": "https://images.unsplash.com/photo-1534275288878-f0a62d63f9d9",
+          "description": "Specialized door components designed for residential and commercial construction projects with superior durability and precision.",
           "applications": [
             "Residential Door Frames",
             "Commercial Building Entries",
@@ -102,20 +102,20 @@
           ]
         },
         {
-          "id": "industrial",
+          "id": "manufacturing",
           "name": "Industrial Manufacturing",
-          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
-          "description": "High-performance door parts designed for demanding industrial environments with superior material quality.",
+          "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+          "description": "High-performance door parts engineered for demanding industrial environments with exceptional reliability.",
           "applications": [
-            "Machine Safety Doors",
-            "Industrial Equipment Panels",
-            "Precision Mounting Systems",
-            "Custom Metal Fabrications"
+            "Machine Enclosure Doors",
+            "Industrial Equipment Frames",
+            "Precision Mounting Solutions",
+            "Custom Fabricated Components"
           ]
         }
       ],
-      "subtitle": "Delivering specialized manufacturing solutions across diverse sectors",
-      "description": "Our expertise spans multiple industries, providing high-quality, precision-engineered door components with advanced manufacturing techniques."
+      "subtitle": "Delivering Specialized Manufacturing Solutions",
+      "description": "RK Enterprise specializes in precision door part manufacturing, offering comprehensive solutions across multiple industrial sectors with unmatched quality and customization."
     },
     "whyChooseUs": {
       "type": "why-choose-us",
@@ -124,45 +124,45 @@
           "id": "quality",
           "icon": "shield-check",
           "title": "Uncompromising Quality Standards",
-          "description": "We implement rigorous quality control processes, ensuring every component meets the highest industry standards and customer expectations."
+          "description": "Our rigorous quality control processes ensure every component meets the highest industry standards, delivering consistent, reliable performance."
         },
         {
           "id": "experience",
           "icon": "calendar",
-          "title": "7+ Years of Manufacturing Excellence",
-          "description": "Our extensive experience translates into deep technical knowledge and the ability to solve complex manufacturing challenges."
+          "title": "7+ Years of Manufacturing Expertise",
+          "description": "With extensive industry experience, we bring deep technical knowledge and proven manufacturing capabilities to every project."
         },
         {
           "id": "technology",
           "icon": "cog",
           "title": "Advanced Manufacturing Technology",
-          "description": "Utilizing state-of-the-art laser writing and precision manufacturing equipment to deliver superior door components."
+          "description": "Utilizing state-of-the-art laser writing and precision manufacturing equipment to deliver exceptional, customized solutions."
         },
         {
           "id": "customization",
           "icon": "wrench",
           "title": "Complete Customization Options",
-          "description": "Tailored solutions that precisely match your specific door part requirements, from design to final production."
+          "description": "Tailored manufacturing solutions that precisely match your specific door part requirements and design specifications."
         }
       ],
       "title": "Why Choose RK Enterprise",
       "enabled": true,
-      "subtitle": "Your trusted partner in precision door part manufacturing"
+      "subtitle": "Your Trusted Partner in Precision Door Manufacturing"
     },
     "aboutusintro": {
       "type": "about-us-intro",
-      "image": "https://images.unsplash.com/photo-1517048676732-d65bc9c4c4e1",
+      "image": "https://images.unsplash.com/photo-1517048676732-d65bc9c4fcd8",
       "title": "About RK Enterprise",
       "enabled": true,
-      "subtitle": "Innovating Door Manufacturing Solutions",
+      "subtitle": "Precision Manufacturing Specialists",
       "highlights": [
         "ISO 9001:2015 Certified",
         "100+ Product Variants",
-        "Advanced Laser Writing Services",
-        "Custom Manufacturing Capabilities",
+        "Custom Laser Writing Services",
+        "Advanced Manufacturing Capabilities",
         "7+ Years Industry Experience"
       ],
-      "description": "Founded in 2016, RK Enterprise specializes in manufacturing high-quality door parts and window components. We combine advanced technology with precision engineering to deliver customized solutions across multiple industries, focusing on quality, innovation, and customer satisfaction."
+      "description": "Founded in 2016, RK Enterprise has established itself as a leading manufacturer of precision door parts and window components. We combine advanced manufacturing technologies with deep industry expertise to deliver exceptional, customized solutions for our clients across various sectors."
     },
     "testimonials": {
       "type": "testimonials",
@@ -173,7 +173,7 @@
           "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a",
           "rating": 5,
           "company": "BuildPro Constructions",
-          "content": "RK Enterprise has been our go-to manufacturer for custom door components. Their precision and attention to detail are unmatched in the industry.",
+          "content": "RK Enterprise consistently delivers high-quality door components that meet our exact specifications. Their attention to detail and customer service is exceptional.",
           "designation": "Procurement Manager"
         },
         {
@@ -182,19 +182,19 @@
           "image": "https://images.unsplash.com/photo-1544005313-94ddc0dea4d5",
           "rating": 5,
           "company": "Industrial Solutions Inc.",
-          "content": "Their laser writing and customization capabilities have significantly improved our manufacturing process. Highly recommended!",
+          "content": "We've been working with RK Enterprise for years. Their custom manufacturing capabilities and quick turnaround times are truly impressive.",
           "designation": "Operations Director"
         }
       ],
       "title": "Client Success Stories",
       "enabled": true,
-      "subtitle": "Trusted by industry leaders for precision manufacturing"
+      "subtitle": "Trusted by Industry Leaders"
     }
   },
   "_instructions": {
     "usage": "Generate dynamic home page content that showcases company strengths and expertise",
     "purpose": "Home page template with AI generation prompts",
     "content_tone": "Professional, confident, customer-focused",
-    "sections_count": "Comprehensive coverage of company capabilities"
+    "sections_count": "Comprehensive sections highlighting company capabilities"
   }
 }
